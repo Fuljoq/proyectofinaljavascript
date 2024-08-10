@@ -1,0 +1,31 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Vodka",
+      "precio": 6500,
+      "edadMinima": 18,
+      "imagen": "public/imgs/vodka-skyy.png"
+    },
+    {
+      "id": 2,
+      "nombre": "Whisky",
+      "precio": 222,
+      "edadMinima": 21,
+      "imagen": "public/imgs/whiskey.png"
+    },
+    {
+      "id": 3,
+      "nombre": "Cerveza Artesanal",
+      "precio": 999,
+      "edadMinima": 18,
+      "imagen": "public/imgs/cervezaartesanal.jpg"
+    },
+    {
+      "nombre": "",
+      "precio": "",
+      "edadMinima": "",
+      "id": 4
+    }
+  ]
+}

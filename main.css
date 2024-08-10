@@ -1,0 +1,9 @@
+.visible{
+    display: block;
+}
+small{
+    color: red;
+}
+#content{
+    visibility: hidden;
+}
